@@ -1,0 +1,41 @@
+﻿@page 
+@model _4nitureDesigns.Pages.Admin.UsersMgt.EditModel
+@{
+}
+<form method="post">
+   <input hidden asp-for="AppUser.Id" />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary pl-3">Edit Category</h2>
+            <hr/>
+         </div>
+         <div asp-validation-summary="All"></div>
+         <div class="mb-3">
+             <label asp-for="AppUser.FirstName"></label>
+             <input asp-for="@Model.AppUser.FirstName" class="form-control"/>
+             <span asp-validation-for="AppUser.FirstName" class="text-danger"></span>
+         </div>
+         <div class="mb-3">
+             <label asp-for="AppUser.LastName"></label>
+             <input asp-for="@Model.AppUser.LastName" class="form-control"/>
+             <span asp-validation-for="AppUser.LastName" class="text-danger"></span>
+         </div>
+         <div class="mb-3">
+             <label asp-for="AppUser.Email"></label>
+             <input asp-for="@Model.AppUser.Email" class="form-control"/>
+             <span asp-validation-for="AppUser.Email" class="text-danger"></span>
+         </div>
+         
+         @*Unable to route the Id successfully*@
+         <button type="submit" disabled class="btn btn-primary" style="width:100px; ">Update</button>
+          <a asp-page="Index" class="btn btn-secondary" style="width:100px;">Back</a>
+    </div>
+
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+
+}

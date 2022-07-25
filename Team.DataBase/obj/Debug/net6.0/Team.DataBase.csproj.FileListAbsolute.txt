@@ -1,0 +1,17 @@
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\bin\Debug\net6.0\Team.DataBase.deps.json
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\bin\Debug\net6.0\Team.DataBase.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\bin\Debug\net6.0\ref\Team.DataBase.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\bin\Debug\net6.0\Team.DataBase.pdb
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\bin\Debug\net6.0\Team.Models.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\bin\Debug\net6.0\Team.Models.pdb
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\Team.DataBase.csproj.AssemblyReference.cache
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\Team.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\Team.DataBase.AssemblyInfoInputs.cache
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\Team.DataBase.AssemblyInfo.cs
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\Team.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\Team.DataBase.csproj.CopyComplete
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\Team.DataBase.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\ref\Team.DataBase.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\Team.DataBase.pdb
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\bin\Debug\net6.0\Team.DataBase.runtimeconfig.json
+C:\Users\Fabbiety\source\repos\Assessment\Team.DataBase\obj\Debug\net6.0\Team.DataBase.genruntimeconfig.cache

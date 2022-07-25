@@ -1,0 +1,12 @@
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\bin\Debug\net6.0\Team.Utilities.deps.json
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\bin\Debug\net6.0\Team.Utilities.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\bin\Debug\net6.0\ref\Team.Utilities.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\bin\Debug\net6.0\Team.Utilities.pdb
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\obj\Debug\net6.0\Team.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\obj\Debug\net6.0\Team.Utilities.AssemblyInfoInputs.cache
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\obj\Debug\net6.0\Team.Utilities.AssemblyInfo.cs
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\obj\Debug\net6.0\Team.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\obj\Debug\net6.0\Team.Utilities.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\obj\Debug\net6.0\ref\Team.Utilities.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\obj\Debug\net6.0\Team.Utilities.pdb
+C:\Users\Fabbiety\source\repos\Assessment\Team.Utilities\obj\Debug\net6.0\Team.Utilities.csproj.AssemblyReference.cache

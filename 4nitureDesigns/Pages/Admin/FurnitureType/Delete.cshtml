@@ -1,0 +1,30 @@
+﻿@page
+@model _4nitureDesigns.Pages.Admin.FurnitureType.DeleteModel
+@{
+}
+<form method="post">
+   <input hidden asp-for="FurnitureTypes.Id" />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary pl-3">Delete Category</h2>
+            <hr/>
+         </div>
+         
+         <div class="mb-3">
+             <label asp-for="FurnitureTypes.Name"></label>
+             <input asp-for="@Model.FurnitureTypes.Name" disabled class="form-control"/>
+            
+         </div>
+        
+         <button type="submit" class="btn btn-danger" style="width:100px;">Delete</button>
+         <a asp-page="Index" class="btn btn-secondary" style="width:100px;">Back</a>
+    </div>
+
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial"/>
+    }
+
+}

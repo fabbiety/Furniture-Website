@@ -1,0 +1,12 @@
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\bin\Debug\net6.0\Team.Models.deps.json
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\bin\Debug\net6.0\Team.Models.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\bin\Debug\net6.0\ref\Team.Models.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\bin\Debug\net6.0\Team.Models.pdb
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\obj\Debug\net6.0\Team.Models.csproj.AssemblyReference.cache
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\obj\Debug\net6.0\Team.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\obj\Debug\net6.0\Team.Models.AssemblyInfoInputs.cache
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\obj\Debug\net6.0\Team.Models.AssemblyInfo.cs
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\obj\Debug\net6.0\Team.Models.csproj.CoreCompileInputs.cache
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\obj\Debug\net6.0\Team.Models.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\obj\Debug\net6.0\ref\Team.Models.dll
+C:\Users\Fabbiety\source\repos\Assessment\Team.Models\obj\Debug\net6.0\Team.Models.pdb

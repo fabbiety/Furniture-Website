@@ -1,0 +1,106 @@
+﻿@page
+@model _4nitureDesigns.Pages.ContactUsModel
+	<section class = "mainContent">
+				<section class = "content">
+					<article class = "topcontent">
+					<h2>About Us</h2>
+						<p> 4niture Designs is here is provide you with exceptional range of quality household, Office, and General Art furniture.
+                            We deliver to your doorstep and our website is integrated with safe online payment platform for easy transaction.
+                            You are guaranteed of excellent service.
+
+						</p>
+					</article>
+					
+				</section>
+				<aside class = "general-aside">
+					<aside class = "top-sidebar">
+
+
+                         <video width="400" id="myvideo" loop >
+                         <source src="~/media/ContactVid.mp4" type="video/mp4"/>
+                 </video>
+                        <br> <br>
+            <section>
+  
+    <input width="30" id="playbttn" type="image" src="~/Images/ContactUs/play.png" />
+    <input width="30" id="stopbttn" type="image" src="~/Images/ContactUs/stop.png" />
+     
+    <input type="range" min="0" max="100" value="0" step="1" id="slider">
+   
+</section>
+                        
+                        
+    </aside>
+                    
+					<aside class = "middle-sidebar">
+                        <h3>Personal Info</h3>
+						<ul>
+							<li>Name - Timothy Fabelurin</li>
+							<li>Student Number - N1057172</li>
+							<li>Course  - SOFT40081 Internet Programming</li>
+											
+						</ul>
+						
+					</aside>
+					
+					
+				</aside>
+			</section>
+
+
+<form method="post">
+    
+    <div class="border p-3 mt-4">
+        <h2>Contact Us</h2>
+        <div class="row pb-2">
+       <div class="col-9"> 
+                    
+         
+         <div class="mb-3">
+             <label asp-for="Contact.Name"></label>
+             <input asp-for="@Model.Contact.Name" class="form-control"/>
+             <span asp-validation-for="Contact.Name" class="text-danger"></span>
+         </div>
+
+         <div class="mb-3">
+             <label asp-for="Contact.Message"></label>
+             <textarea asp-for="Contact.Message" class="form-control"></textarea>
+             <span asp-validation-for="Contact.Message" class="text-danger"></span>
+         </div>
+
+             <div class="form-floating my-2">
+                <input maxlength="15" asp-for="Contact.ContactNumber" class="form-control"  />
+                <label asp-for="Contact.ContactNumber"></label>
+                <span asp-validation-for="Contact.ContactNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating my-2">
+                <input asp-for="Contact.Email" class="form-control"  aria-required="true" />
+                <label asp-for="Contact.Email"></label>
+                <span asp-validation-for="Contact.Email" class="text-danger"></span>
+            </div>
+        
+        </div>
+
+     
+         </div>
+       
+         <button type="submit" class="btn btn-primary" style="width:100px; ">Send</button>   
+             
+        
+         
+    </div>
+
+</form>
+
+
+@section Scripts{
+
+
+    @{
+         <script src="~/js/HomePage.js"></script>
+        <partial name="_ValidationScriptsPartial"/>
+    }
+
+}
+

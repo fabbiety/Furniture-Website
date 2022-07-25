@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "da4f7429-c8ae-4c3f-97de-f01237959d2c": {
+      "ProjectGuid": "da4f7429-c8ae-4c3f-97de-f01237959d2c",
+      "DisplayName": "4nitureDesigns",
+      "ColorIndex": 0
+    },
+    "acbb4d3b-533d-42b8-8856-ec053907fcc4": {
+      "ProjectGuid": "acbb4d3b-533d-42b8-8856-ec053907fcc4",
+      "DisplayName": "Team.DataBase",
+      "ColorIndex": 1
+    },
+    "31a92d10-1b52-4f6a-a0a5-216acfb92ddb": {
+      "ProjectGuid": "31a92d10-1b52-4f6a-a0a5-216acfb92ddb",
+      "DisplayName": "Team.Models",
+      "ColorIndex": 2
+    },
+    "dd69a94d-d1b6-4b4d-b9e6-87122f3129f4": {
+      "ProjectGuid": "dd69a94d-d1b6-4b4d-b9e6-87122f3129f4",
+      "DisplayName": "Team.Utilities",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
